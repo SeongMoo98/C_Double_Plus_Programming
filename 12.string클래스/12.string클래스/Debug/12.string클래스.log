@@ -1,0 +1,4 @@
+﻿  stringclass.cpp
+C:\Users\rudnf\source\repos\C++\12.string클래스\12.string클래스\stringclass.cpp(178,7): warning C4552: '-': 식의 결과가 사용되지 않습니다.
+C:\Users\rudnf\source\repos\C++\12.string클래스\12.string클래스\stringclass.cpp(249): warning C4172: 지역 변수 또는 임시: temp의 주소를 반환하고 있습니다.
+  12.string클래스.vcxproj -> C:\Users\rudnf\source\repos\C++\12.string클래스\Debug\12.string클래스.exe
